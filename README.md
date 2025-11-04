@@ -88,6 +88,7 @@ Produced JSON (Cincy art finder API) |	Our application will expose its own API f
 - Cheikh Abdoul
 - Oladele Awonusi
 - Taiwo Mudah
+- Pushpa Priya Sripathi
 
 Weekly Meeting Time and Format:
 Mondays at 2:00 PM EST via Microsoft Teams
