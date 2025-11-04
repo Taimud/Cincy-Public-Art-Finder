@@ -49,7 +49,7 @@ Then I can view related comments and photos.
 As a user, I want to know if it’s a good time for a walking tour, so that I can plan my day.
 - Given the app fetches weather data,
 When I open the “Tours” page,
-Then I see a message like “It’s a great day for a walk!” or “It’s raining—try an indoor gallery instead.”
+Then I see a message like “It’s a great day for a walk!” or “It’s raining, try an indoor gallery instead.”
 - Given I choose “30-minute tour,”
 When weather conditions are clear,
 Then a route of 5–6 nearby murals appears.
@@ -66,7 +66,7 @@ Then the image displays in the user photo gallery.
 
 ### Requirement 5: View User-Submitted Photos
 
-As a user, I want to view user-submitted photos, so that I can see the art in different seasons or times of day.
+As a user, I want to view user submitted photos, so that I can see the art in different seasons or times of day.
 - Given I am on an art’s detail page,
 When I click the “User Photos” tab,
 Then I see a gallery of community photos.
