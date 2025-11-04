@@ -6,7 +6,7 @@ Cincy Public Art Finder is a web application designed to help residents and tour
 
 ## Icon/Logo
 
-![our logo](/path/to/image)
+![our logo](wwwroot/images/logo.png)
 
 ## Storyboard
 
