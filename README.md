@@ -14,9 +14,9 @@ Below is a simple storyboard stating plans for a user interface and  features.Th
 
 | Screen            | Description                        | Example Image                           |
 | ----------------- | -----------------------------------| --------------------------------------- |
-| Home Page         | Displays a city map with pins representing art installations near the user. Includes a search bar and “Find Nearby Art” button. | ![Home Screen](storyboard/home.png)     |
-| Art Detail Page   | Shows art name, image, description, and community comments/photos.                                                              | ![Detail Screen](storyboard/detail.png) |
-| Walking Tour Page | Suggests tour routes based on weather and time availability.                                                                    | ![Tour Screen](storyboard/tour.png)     |
+| Home Page         | Displays a city map with pins representing art installations near the user. Includes a search bar and “Find Nearby Art” button. |![Home Page](wwwroot/images/art-detail.png)   |
+| Art Detail Page   | Shows art name, image, description, and community comments/photos.                                                              | ![Detail Screen](wwwroot/images/home-page-mockup.png) |
+| Walking Tour Page | Suggests tour routes based on weather and time availability.                                                                    | ![Tour Screen](wwwroot/images/walking-tour.png)     |
 
 ## Project Management:
 
